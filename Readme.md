@@ -16,7 +16,7 @@ Each assignment is organized into its own directory:
 
 | Assignment No. | Topic / Task Name | Documentation (PDF) | Video Demo |
 | :--- | :--- | :--- | :--- |
-| **01** | Cloud Basics | [📄 View PDF](./assign1/implementation.pdf) | [🎥 Watch Video](./assign1/video.mp4) |
+| **01** | Cloud Basics | [📥 Download PDF](https://github.com/Rohanp12/AWS-VPC-PROJECT/raw/master/assign1/implementation.pdf) | [🎥 Watch Video](./assign1/video.mp4) |
 
 > *Note: Replace the bracketed text above with your actual assignment titles and ensure the file names match your local files.*
 
