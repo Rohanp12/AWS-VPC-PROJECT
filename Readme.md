@@ -33,8 +33,7 @@ Each assignment is organized into its own directory:
 ## 👤 About Me
 I am a third-year Computer Engineering student passionate about Cloud Infrastructure and DevOps automation. I'm currently building my skills to bridge the gap between development and operations.
 
-- **LinkedIn:** [Your Profile URL]
-- **Portfolio:** [Your Portfolio URL]
+- **LinkedIn:** [Rohan_Patil](https://www.linkedin.com/in/rohan-kiran-patil-3883a6274/)
 
 ---
 *Happy Cloud Computing!* ⚡
